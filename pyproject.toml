@@ -1,6 +1,6 @@
 [project]
 name = "env-config-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Read typed settings from environment variables without external dependencies"
 requires-python = ">=3.10"
 dependencies = []
